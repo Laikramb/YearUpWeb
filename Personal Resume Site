@@ -1,0 +1,139 @@
+<!Doctype htmL>
+<html>
+
+<head>
+  <title>Laikram Beniprasad: The Resume</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Quicksand:300,700" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name=viewport content='width=300'>
+</head>
+
+<body>
+  <div class="navigation">
+    <ul>
+      <li><a href="Me">About Me</a></li>
+      <!--Add elements of the Showcase Yourself-->
+      <li><a href="#Work">Work Expirence</a></li>
+      <!--Resume-->
+      </a>
+      <li><a href="#education">Education</a></li>
+      <!--Year Up/ QCC-->
+      <li><a href="#projects">Projects</a></li>
+      <!--Pictures of Mr.Marcial and Ms.Ramaswamy's Assignments
+IDEA: Take Screenshots of the assignments. Then make a pop up image of the assignment that also has a link to find the code on Github. Screenshots will be in a grid form. Possible 4 x 4. 
+Idea: Use Opacity on images to increase focus when hovered over
+Idea 2: the ScreenShot can instead be GIFs displaying how the code works. 
+
+To do this: Create a bunch of seprate divs. Float to the left and than float left with a width of 33%. 
+-->
+      <li><a href="#links">Links</a></li>
+      <!-- Pictures that lnk to Github, Linkedin, etc in the form of a navbar-->
+
+      <!--Work on the website to be mobile friendly-->
+    </ul>
+  </div>
+
+  <div class="header">
+    <div id="header-text">
+      <h1>Laikram Beniprasad</h1>
+      <h2>The Resume</h2>
+    </div>
+  </div>
+
+  <div class="YearUp">
+    <h4>Year Up Atlanta Programming Student <img src="https://pbs.twimg.com/profile_images/1421878249/Y_only_gold_thumbnail_400x400.jpg" id="aa-logo" width="50px"></h4>
+  </div>
+
+  <div class="main">
+    <h3 id="Work">Work Expirence</h3>
+    <p>Objective: To obtain a postion in Quality Assurance or Programming that allows upward movementy within the company.</p>
+
+    <div class="Jobs">
+      <div class="Duties">
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/37/Southern_Company_Logo_2016.jpg" width="60px">
+        <h2>Quality Assurance Analyst Intern</h2>
+        <h5>With more than 9 million customers, 44,000 megawatts of generating capacity and 1,500 billion cubic feet of combined natural gas consumption and throughput, Atlanta-based Southern Company (NYSE: SO) is America's premier energy company serving the Southeast through its subsidiaries.<br /><br /> August 2016 - Current</h5>
+        <ul>
+          <li>To look at products, systems and materials and assure there are no defects and make sure that it is made to company standards.</li>
+          <li>Review and analyze test plans.</li>
+          <li>Conduct Regression Tests, System Tests, and Post Production Tests</li>
+          <li>Handled the clarity and quality of all Bill Messages and Advertisements </li>
+        </ul>
+      </div>
+
+      <div class="Duties">
+        <img src="http://www.clipartkid.com/images/542/panera-bread-job-panera-bread-jobs-panera-bread-online-application-on-3qCHCI-clipart.jpg" width="60px">
+        <h2>Overnight Baker</h2>
+        <h5>Panera Bread Company is an American chain of bakery-café fast casual restaurants in the United States and Canada. Offerings include soups, salads, pasta, sandwiches, and bakery items.<br /><br />April 2015 - May 2015</h5>
+        <ul>
+          <li>Worked at a total of 5 different Panera Bread Cafes under the same supervisor in NYC (Adams Street, New Hyde Park, Mineola, Bayside, and Little Neck)</li>
+          <li>Handled the baking and preparation of goods for the cafe</li>
+          <li>Handled the baking and preparation of good for catering events</li>
+          <li>Occasionally handled inventory for Baker Items
+          </li>
+          <li>Performed minor Janitorial duties</li>
+          <li>Maintained the Organization of Cafes freezer</li>
+        </ul>
+      </div>
+
+      <div class="Duties">
+        <img src="http://www.nc4hstories.org/~ncfourh2/files/socks_.jpg" width="60px">
+        <h2>R&K Socks Inc: Backroom Stocker</h2>
+        <h5>R&K Socks is a Wholesale warehouse that sells socks, clothing, and perfume.<br /><br />June 2010 - September 2012 </h5>
+        <ul>
+          <li>Maintained Organization of Inventory and Stock</li>
+          <li>Handled the ordering of future Inventory Items</li>
+          <li>Performed minor Cashier duties</li>
+          <li>Performed minor Janitorial duties</li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+  <hr>
+
+  <div class="main">
+    <h3 id="education">Education</h3>
+
+
+    <div class="Jobs">
+      <div class="Duties">
+        <img src="https://pbs.twimg.com/profile_images/1421878249/Y_only_gold_thumbnail_400x400.jpg" width="60px">
+        <h2>Year Up Atlanta</h2>
+        <h5>Year Up is a rigorous and fast-paced program for young individuals between the ages of 18 and 24. At Year Up they prepare you for professional careers in the Information Technology Industry. I attended the program in the Quality Assurance/ Programming Track and I learned the following:<br /><br />March 2016 - Current</h5>
+        <ul>
+          <li>Public Speaking</li>
+          <li>Business Writing</li>
+          <li>Project Management </li>
+          <li>Microsoft Office (Word, PowerPoint, Excel, Outlook, Access)</li>
+          <li>HTML (Hypertext Markup Language)</li>
+          <li>CSS (Cascading Style Sheets)</li>
+          <li>Basic JavaScript</li>
+          <li>Basic JQuery</li>
+          <li>SQL(Structured Query Language)</li>
+        </ul>
+      </div>
+
+      <div class="Duties">
+        <img src="https://lh5.googleusercontent.com/-OZtGWEfVN_A/AAAAAAAAAAI/AAAAAAAAAAw/quL93TfYya4/s0-c-k-no-ns/photo.jpg" width="60px">
+        <h2>Queensborough Community College</h2>
+        <h5>Queensborough Community College is a CUNY school that is cheap and gets you your Associates Degree.<br /> Also, since it is a CUNY school, theere are many transfer options. GO TIGERS!<br />Education Major<br />While there, I studied the following:</h5>
+        <ul>
+          <li>Sociology</li>
+          <li>Psychology</li>
+          <li>History: Early Civilizations</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+  <div class="main">
+    <h3 id="Work">Projects</h3>
+    <p></p>
+
+
+  </div>
+  <hr>
+
+</html>
